@@ -7,3 +7,7 @@ Here is the lists of Learning Path that already solved by me.
 ![pre-security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LQFPLKDGU6.png)
 
 Let's collect as many as I could be.
+
+2. Introduction to Cyber Security [15th January 2023]
+
+![intro-cybsec](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZESJHUQZZW.png)
